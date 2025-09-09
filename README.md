@@ -10,6 +10,12 @@ Ik ben **Martijn** (aka *mikeabin*), een enthousiaste developer met een passie v
 
 ## 🛠️ Mijn Skills
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,wordpress,python)
+-
+![My Skills](https://skillicons.dev/icons?i=windows,linux,apple)
+-
+![My Skills](https://skillicons.dev/icons?i=vscode,discord,bots,git,github,powershell)
+
+
 
 ---
 
