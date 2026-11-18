@@ -1,4 +1,4 @@
-Ik ben **Martijn** (aka *mikeabin*), een enthousiaste developer met een passie voor webontwikkeling, automatisering en creatieve oplossingen in code. 🚀  
+Ik ben **Martijn** (aka *mikeabin*), een enthousiaste developer met een passie voor webontwikkeling, automatisering en creatieve oplossingen in code.
 ![Profile Views](https://komarev.com/ghpvc/?username=mikeabin&style=for-the-badge)
 
 ---
